@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner" alt="Bannière du projet" width="1000" height="250"/>
+  <img src="docs/banner.webp" alt="Bannière du projet" width="1000" height="250"/>
 </p>
 
 #  CROUS Housing: A Data-Driven Study of the S2 Residual Market 📊
